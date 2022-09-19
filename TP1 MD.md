@@ -1,6 +1,6 @@
-[TP1 - Installation d'Ubuntu Server et prise en main du shell]{.ul}
+## TP1 - Installation d'Ubuntu Server et prise en main du shell
 
-[Exercice 2 : Manuel]{.ul}
+### Exercice 2 : Manuel
 
 1\) Le rôle de la commande which est de prendre un ou plusieurs
 arguments et par la suite, donner le chemin complet de la commande
@@ -52,7 +52,7 @@ possible de le supprimer car il n'est pas vide.
 11\) Il est possible de supprimer le Dossier2 et son contenue avec la
 commande rm --r
 
-[Commandes importantes :]{.ul}
+### Commandes importantes :
 
 1\) La commande pour afficher l'heure est date. La commande time sert à
 déterminer le temps d'exécution d'une commande. Exemple : time date
@@ -125,7 +125,7 @@ et pour les erreurs la commande est find / -iname « passwd » 2\>\>
 25\) Non, le dossier n'apparait pas car la base de données n'est pas
 encore à jour
 
-[Exercice 3]{.ul}
+### Exercice 3
 
 1\) Dans le dossier personnel il faut faire cp /var/log/syslog log.txt
 et ensuite nano log.txt
